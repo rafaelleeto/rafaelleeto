@@ -88,12 +88,12 @@ Me chamo Rafael Borges Marchetti, tenho 22 anos e sou de Colombo, Paraná. Concl
 <p align="left">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=rafaelleeto&show_icons=true&theme=github_dark&locale=pt-br&cache_seconds=1800"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelleeto&show_icons=true&theme=github_dark"
   />
 
 <img 
  height="180em" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelleeto&layout=compact&theme=github_dark&langs_count=8&cache_seconds=1800"
+ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaelleeto&layout=compact&theme=github_dark"
 />
 
 </p>
