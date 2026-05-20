@@ -66,23 +66,3 @@ Projeto desenvolvido com arquitetura MVC em **Python + Flask**, banco de dados r
 
 ---
 
-## 📊 Estatísticas
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelleeto&show_icons=true&theme=github_dark&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaelleeto&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-## 📫 Contato
-
-Estou aberto a oportunidades de estágio ou primeiro emprego na área de tecnologia.
-
-[![LinkedIn](https://img.shields.io/badge/Me%20chame%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelborgesmarchetti)
-
----
-
-<div align="center">
-  <sub>Feito com dedicação por Rafael Borges Marchetti · Colombo, PR</sub>
-</div>
