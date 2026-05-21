@@ -44,19 +44,6 @@ Tenho experiência prática com desenvolvimento web full stack, banco de dados r
 
 ---
 
-## 🚀 Projetos
-
-### 🔒 V.I.A — Vigilância e Identificação de Acesso
-> Sistema web completo de controle e registro de acesso de pessoas.
-
-Projeto desenvolvido com arquitetura MVC em **Python + Flask**, banco de dados relacional via **SQLAlchemy** e suporte a múltiplos ambientes (SQLite para dev, PostgreSQL para produção). Interface construída com HTML e CSS.
-
-**Tecnologias:** Python · Flask · SQLAlchemy · HTML · CSS · MySQL
-
-[![Ver projeto](https://img.shields.io/badge/Ver%20projeto-GitHub-181717?style=flat-square&logo=github)](https://github.com/rafaelleeto/V.I.A)
-
----
-
 ## 🎓 Formação
 
 | Instituição | Curso | Status |
